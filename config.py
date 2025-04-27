@@ -1,1 +1,1 @@
-TOKEN = "your-bot-token-here"
+TOKEN = "MTM2NTg1OTE3Mzg4MzE4NzIxMQ.Ge3XoT.uxTpQNAQzBIAqT9TNUDhfRZtH-nf5o910OmEy8"
